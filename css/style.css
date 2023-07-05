@@ -281,3 +281,33 @@ body{
 }
 
 /* wrap end */
+
+
+
+/* footer start */
+
+.footer{
+    width: 100%;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.footer__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer__copyright{
+    font-size: 18px;
+    line-height: normal;
+    color: #2B3939;
+    text-decoration: none;
+}
+
+/* footer end */

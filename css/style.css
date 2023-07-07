@@ -306,6 +306,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #fff;
+    box-shadow: 0px -7px 20px rgba(13, 113, 130, 0.1);
 }
 
 .footer__container{
